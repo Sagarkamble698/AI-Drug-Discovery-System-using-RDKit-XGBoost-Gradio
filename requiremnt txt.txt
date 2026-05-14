@@ -1,0 +1,6 @@
+#requiremnt txt 
+pandas
+numpy 
+mataplot.lib
+scikit learn
+gradio 
